@@ -2,7 +2,7 @@
 
 Vulnerability research by **Dr. John Umoru** of [ClarenSec](https://clarensec.com).
 
-Each directory holds a write-up, a runnable PoC, and (where applicable) a video walkthrough. Findings are published after coordinated disclosure with the vendor, or after the plugin has been confirmed unmaintained.
+Each directory holds a write-up, a PoC script, and (where applicable) a video walkthrough. Findings are published after coordinated disclosure with the vendor, or after the plugin has been confirmed unmaintained.
 
 | ID | Plugin | Class | CVSS |
 |---|---|---|---|
