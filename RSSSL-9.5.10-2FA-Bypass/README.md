@@ -1,7 +1,7 @@
 # Really Simple Security `<= 9.5.10`: 2FA Bypass
 
 > The second factor in "Really Simple Security" turned out to be optional.
-> CVSS **8.1**. **Fixed in 9.5.10.1, update now.**
+> CVSS **8.1**. **Fixed in 9.5.10.1**
 
 If you have an admin password and you can submit it to a site running RSSSL with email 2FA enabled (the default state for the administrator role after onboarding), you can complete the login without the OTP. 
 
