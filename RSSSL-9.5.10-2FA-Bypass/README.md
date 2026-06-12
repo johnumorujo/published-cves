@@ -1,7 +1,7 @@
 # Really Simple Security `<= 9.5.10`: 2FA Bypass - CVE-2026-8293
 
 > The second factor in "Really Simple Security" turned out to be optional.
-> CVSS **8.1**. **Fixed in 9.5.10.1**
+> CVSS **7.5** (High). **Fixed in 9.5.10.1**
 
 Youtube POC here: https://youtu.be/Fpfmxc7DfbY
 
